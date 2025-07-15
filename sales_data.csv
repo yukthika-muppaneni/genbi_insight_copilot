@@ -1,0 +1,9 @@
+Date,Product,Region,Revenue,Units
+2023-01-01,Product A,East,5000,200
+2023-01-02,Product B,West,4000,180
+2023-01-03,Product A,East,5200,210
+2023-01-04,Product B,West,3900,175
+2023-01-05,Product A,East,5100,205
+2023-01-06,Product B,West,4200,190
+2023-01-07,Product A,East,5300,215
+2023-01-08,Product B,West,4100,185
