@@ -39,10 +39,10 @@ An AI-powered business intelligence assistant that enables users to explore, ana
 | ![Revenue Forcast](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Revenue Forecast.png) | Revenue forecast for "What is the average revenue?" |
 | ![Forecast Chart](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Forecast Chart.png) | Forecast chart for "What is the average revenue?" |
 | ![Insight 1](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%201.png.png) | Chat interface answering "What is the average revenue?" |
-| ![Insight 2](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 2.png) | KPI cards displaying total, average, and max revenue |
-| ![Insight 3](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 3.png) | Prophet forecast results table for 14 days |
-| ![Insight 4](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 4.png) | Insight and forecast export buttons with smooth layout |
-| ![Insight 5](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 5.png) | Forecast chart visualizing revenue projection |
+| ![Insight 2](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%202.png.png) | KPI cards displaying total, average, and max revenue |
+| ![Insight 3](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%203.png.png) | Prophet forecast results table for 14 days |
+| ![Insight 4](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%204.png.png) | Insight and forecast export buttons with smooth layout |
+| ![Insight 5](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%205.png.png) | Forecast chart visualizing revenue projection |
 
 ---
 
