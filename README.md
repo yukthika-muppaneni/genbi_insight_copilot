@@ -31,6 +31,21 @@ An AI-powered business intelligence assistant that enables users to explore, ana
 
 ---
 
+## 📂 Sample Results
+
+| Screenshot | Description |
+|-----------|-------------|
+| ![Revenue Over Time](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Revenue Over Time.png) | Chart for the question "What is the average revenue?" |
+| ![Revenue Forcast](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Revenue Forecast.png) | Revenue forecast for "What is the average revenue?" |
+| ![Forecast Chart](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Forecast Chart.png) | Forecast chart for "What is the average revenue?" |
+| ![Insight 1](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 1.png) | Chat interface answering "What is the average revenue?" |
+| ![Insight 2](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 2.png) | KPI cards displaying total, average, and max revenue |
+| ![Insight 3](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 3.png) | Prophet forecast results table for 14 days |
+| ![Insight 4](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 4.png) | Insight and forecast export buttons with smooth layout |
+| ![Insight 5](C:\Users\ssr\Desktop\genbi_insight_copilot\images\Chart Insight 5.png) | Forecast chart visualizing revenue projection |
+
+---
+
 ## 🛠️ Tech Stack
 - `Python`
 - `Streamlit`
