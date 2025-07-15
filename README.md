@@ -35,7 +35,7 @@ An AI-powered business intelligence assistant that enables users to explore, ana
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![Revenue Over Time](images/Revenue%20Over%20Time.png) | Chart for the question "What is the average revenue?" |
+| ![Revenue Over Time](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Revenue%20Over%20Time.png.png) | Chart for the question "What is the average revenue?" |
 | ![Revenue Forcast](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Revenue%20Forecast.png.png) | Revenue forecast for "What is the average revenue?" |
 | ![Forecast Chart](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Forecast%20Chart.png.png) | Forecast chart for "What is the average revenue?" |
 | ![Insight 1](https://github.com/yukthika-muppaneni/genbi_insight_copilot/blob/main/Chart%20Insight%201.png.png) | Chat interface answering "What is the average revenue?" |
