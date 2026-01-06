@@ -86,10 +86,9 @@ streamlit run streamlit_app.py
 ---
 
 ## 🙋‍♀️ Author
-**Yukthika Muppaneni**  
-📧 yukmuppaneni07@gmail.com  
-🌐 [Portfolio](https://yukmuppaneni07.wixsite.com/my-site-4)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yukthika-muppaneni-397b21213)
+**Yukthika M**  
+📧 yukthika1107@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yukthika-m-397b21213)
 
 ---
 
